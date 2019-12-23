@@ -5,7 +5,7 @@
   "dependencies": {
     "shelljs": "^0.6.0"
   },
-  "description": "Run Flow Status on each Webpack build.",
+  "description": "Run Flow Status on each Webpack build with errors",
   "devDependencies": {},
   "keywords": [
     "flow-status",
